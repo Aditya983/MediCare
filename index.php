@@ -60,6 +60,7 @@
 					<div class="col-xs-11 text-right menu-1">
 						<ul>
 							<li><a href="index.php" style ="color:#000">Home</a></li>
+							<li><a href="about.php" style ="color:#000">AboutUs</a></li>
 							<li><a href="managerlogin.php" style ="color:#000">Manager</a></li>
 							<li><a href="technicianlogin.php" style ="color:#000">Technician</a></li>
 							<li><a href="customerlogin.php" style ="color:#000">Customer</a></li>
@@ -125,8 +126,8 @@
 					</div>
 					<div class="col-md-4 col-md-pull-8 animate-box">
 						<div class="mt">
-							<h3>We Want You To Learn English</h3>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+							<h3>Learn to keep yourself fit </h3>
+							<p>To keep the body in good health is a duty... otherwise we shall not be able to keep our mind strong and clear..</p>
 						</div>
 					</div>
 				</div>
@@ -143,8 +144,8 @@
 					<div class="col-md-4 animate-box">
 						<div class="mt">
 							<div>
-								<h4><i class="fa fa-user"></i>Real Project For Real Solutions</h4>
-								<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia. </p>
+								<h4><i class="fa fa-user"></i>Real Solutions For Your Health</h4>
+								<p>To enjoy good health, to bring true happiness to one's family, to bring peace to all, one must first discipline and control one's own mind. If a man can control his mind he can find the way to Enlightenment, and all wisdom and virtue will naturally come to him. </p>
 							</div>
 						</div>
 					</div>

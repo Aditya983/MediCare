@@ -187,7 +187,7 @@ body{
 					</div>
 					<div class="col-xs-11 text-right menu-1">
 						<ul>
-							<li><a href="managerhome.php" style ="color:#000">Home</a></li>
+							<li><a href="index.php" style ="color:#000">Home</a></li>
 							<li><a href="managerlogin.php" style ="color:#000">Manager</a></li>
 							<li><a href="technicianlogin.php" style ="color:#000">Technician</a></li>
 							<li><a href="customerlogin.php" style ="color:#000">Customer</a></li>
